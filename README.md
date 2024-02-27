@@ -2,11 +2,14 @@
 
 ## Full-stack Developer
 
-I'm a full-stack developer with more that 4 years of experience in web development. I'm passionate about learning new technologies and building cool projects.
+I'm a full-stack developer with more than 4 years of experience in web development. I'm passionate about learning new technologies and building cool projects.
 
 - 🌍  I'm based in Indonesia
 - ✉️  You can contact me at [misbah.ansori24@gmail.com](mailto:misbah.ansori24@gmail.com)
-- 🤝  I'm open to collaborating on interesting project
+- 🤝  I'm open to collaborating on an interesting project
+
+### Website
+https://www.misbah.dev
 
 ### Skills
 
